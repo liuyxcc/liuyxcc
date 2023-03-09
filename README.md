@@ -1,6 +1,6 @@
 ## Nice to see you! 🥳
 
-✏️ 个人博客：<a href="https://blog.liuyx.cc">https://blog.liuyx.cc</a>
+✏️ My Blog: <a href="https://www.cnblogs.com/liuyxcc">https://www.cnblogs.com/liuyxcc</a>
 
 <p>
 <!-- Linux -->
